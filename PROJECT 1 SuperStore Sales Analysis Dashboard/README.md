@@ -9,7 +9,7 @@ This repository contains the code and visualizations for a Superstore Sales Anal
 ## Visualizations
 
 * **Sales Across World:**
-   A map visualization showing sales across the world.\
+   A map visualization showing sales across the world.
   
    ![Image](https://github.com/harsharma30/Projects/blob/20e5568fc63b2e4fd8e99e71fcb481775424611a/PROJECT%201%20SuperStore%20Sales%20Analysis%20Dashboard/Images/Screenshot%202024-09-15%20114133.png)
 
